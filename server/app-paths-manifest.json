@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/category/page": "app/category/page.js",
+  "/category/product/[id]/page": "app/category/product/[id]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/profile/(auth)/login/page": "app/profile/(auth)/login/page.js",
+  "/profile/(auth)/auth/page": "app/profile/(auth)/auth/page.js",
+  "/profile/(auth)/register/page": "app/profile/(auth)/register/page.js",
+  "/profile/address/edit/page": "app/profile/address/edit/page.js",
+  "/profile/address/page": "app/profile/address/page.js",
+  "/profile/cart/page": "app/profile/cart/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/page": "app/page.js"
+}
